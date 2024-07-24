@@ -1,0 +1,46 @@
+#a {
+    text-align: center;
+    color: brown;
+    background-color: blanchedalmond;
+}
+
+#b {
+    text-align: left;
+    color: #402705;
+    background-color: rgb(148, 134, 124);
+}
+
+body {
+    background-color: rgb(239, 241, 231);
+}
+
+#c {
+    text-align: left;
+    color: crimson;
+    background-color: cornsilk;
+}
+
+#d {
+    text-align: left;
+    color: darkgreen;
+    background-color: antiquewhite;
+}
+
+#e {
+    text-align: left;
+    color: darkviolet;
+    background-color: burlywood;
+}
+
+#f {
+    text-align: left;
+    color: darkred;
+    background-color: gold;
+}
+#g{
+    text-align: left; color: darkgoldenrod;background-color: lightpink;
+}
+#h{
+    text-align: left; color: blue;background-color: blanchedalmond;
+}
+    
